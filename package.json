@@ -1,0 +1,20 @@
+{
+    "name": "doc",
+    "version": "1.0.0",
+    "description": "Doctor appointment API",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "engines": {
+      "node": "18.18.0"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.1.5"
+    },
+    "keywords": [],
+    "author": "Yasar Arafat",
+    "license": "ISC"
+  }
+  
